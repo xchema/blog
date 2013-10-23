@@ -1,4 +1,4 @@
-blog
-====
+xchema blog
+============
 
-Blog platform based in Markdown
+Xchema blog is a blogging platform based in Markdown.
