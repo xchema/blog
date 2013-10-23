@@ -1,0 +1,22 @@
+{
+  "name": "xchema-blog",
+  "version": "0.0.1",
+  "description": "Blog platform based on Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xchema/blog.git"
+  },
+  "keywords": [
+    "blog",
+    "markdown",
+    "xchema"
+  ],
+  "author": "xchema",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "8b42fb9eceac1a4a8a96ca0cccb918fcb2ee2ea7"
+}
